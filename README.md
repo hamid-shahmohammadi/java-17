@@ -1,9 +1,15 @@
-# java-17
+# java keywords
 
 ```
-cd src
-javac com/javacode/Main.java
-java com/javacode/Main
-
-java com.javacode.Main
+https://www.w3schools.com/java/java_ref_keywords.asp
 ```
+
+## comment
+```
+// desc
+
+/* enter
+
+*/
+```
+
