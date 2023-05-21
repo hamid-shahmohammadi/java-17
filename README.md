@@ -12,6 +12,7 @@ System.out.println(irlv.substring(0,4));
 System.out.println(irlv.length());
 System.out.println(irlv.contains("z"));
 System.out.println(irlv.concat("12"));
+System.out.println(irlv.replace("a","@"));
 System.out.println("  ".isEmpty());
 System.out.println("  ".isBlank());
 System.out.println(" a ".isBlank());
