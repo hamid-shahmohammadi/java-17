@@ -9,6 +9,8 @@ System.out.println(irlv.toUpperCase());
 System.out.println(irlv.toLowerCase());
 System.out.println(irlv.substring(4));
 System.out.println(irlv.substring(0,4));
+System.out.println(irlv.length());
+System.out.println(irlv.contains("z"));
 System.out.println("  ".isEmpty());
 System.out.println("  ".isBlank());
 System.out.println(" a ".isBlank());
