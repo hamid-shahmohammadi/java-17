@@ -1,4 +1,4 @@
-# 6.if.witch,switch,for
+# 6.if.while,switch,for
 
 ```
 int x=8;
