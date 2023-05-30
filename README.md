@@ -1,9 +1,28 @@
-# java-17
-
+# 7.Object,Method
+## Math.java
 ```
-cd src
-javac com/javacode/Main.java
-java com/javacode/Main
+package com.javacode;
 
-java com.javacode.Main
+public class Math {
+    int resutl;
+    void add(int a,int b){
+        resutl = a+b;
+    }
+
+    void getResutl(){
+        System.out.println(resutl);
+    }
+}
+```
+## Main.java
+```
+public class Main {
+    public static void main(String[] args) {
+        Math math = new Math();
+//        int res = math.add(1,2);
+        math.add(1,2);
+        math.getResutl();
+
+    }
+}
 ```
